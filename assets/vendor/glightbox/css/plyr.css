@@ -1034,6 +1034,7 @@ a.plyr__control:before {
 }
 
 .plyr__progress__buffer {
+  appearance: none;
   -webkit-appearance: none;
   background: 0 0;
   border: 0;
